@@ -15,9 +15,6 @@
   <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
 </p>
 
-## Skills
-> Tenho experiência no consumo de APIs REST, manipulação de eventos, desenvolvimento de lógica de programação e tratamento de dados em formato JSON, além de integração com serviços externos.
-
 ### Ferramentas de Desenvolvimento
 > Estas são algumas das ferramentas que utilizo durante o desenvolvimento de projetos pessoais, contribuindo para uma melhor qualidade visual e uma estrutura bem organizada.
 
