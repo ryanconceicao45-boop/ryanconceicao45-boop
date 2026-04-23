@@ -10,7 +10,9 @@ Desde cedo sempre tive curiosidade por tecnologia, principalmente depois do meu 
 Hoje sigo focado em evoluir como desenvolvedor, buscando melhorar minha lógica, escrever códigos mais eficientes e desenvolver aplicações cada vez mais completas.
 
 🧠 Tecnologias
-https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
 
 📊 Estatísticas do GitHub
 
