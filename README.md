@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1100" height="300" src="/bg.png" />
+  <img width="1100" height="300" src="/bgg.png" />
 </p>
 
 <p align="left"><b>Desenvolvedor Full Stack em formação</b></p>
