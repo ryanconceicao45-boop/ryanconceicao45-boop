@@ -3,7 +3,11 @@
 </p>
 
 <p align="left"><b>Desenvolvedor Full Stack em formação</b></p>
-<p align="left"> Sou um desenvolvedor em constante evolução, apaixonado por tecnologia desde a infância. Meu primeiro contato com computadores despertou uma curiosidade natural: eu costumava montar e desmontar máquinas para entender como tudo funcionava na prática. Com o tempo, essa curiosidade evoluiu para o desenvolvimento de software. Iniciei minha jornada com a linguagem Lua, utilizada na criação de scripts para jogos, o que me proporcionou uma base sólida de lógica de programação. A transição para o JavaScript foi natural, devido às semelhanças entre as linguagens. Atualmente, estou focado em me tornar um desenvolvedor Full Stack Sênior, buscando constantemente aprimorar minhas habilidades e aplicar meus conhecimentos na criação de soluções eficientes e escaláveis em grandes projetos.</p>
+<p align="left"> Sou um desenvolvedor em constante evolução, apaixonado por tecnologia desde a infância. Meu primeiro contato com computadores despertou uma curiosidade natural: eu costumava montar e desmontar máquinas para entender como tudo funcionava na prática. 
+
+Com o tempo, essa curiosidade evoluiu para o desenvolvimento de software. Iniciei minha jornada com a linguagem Lua, utilizada na criação de scripts para jogos, o que me proporcionou uma base sólida de lógica de programação. A transição para o JavaScript foi natural, devido às semelhanças entre as linguagens. 
+
+Atualmente, estou focado em me tornar um desenvolvedor Full Stack Sênior, buscando constantemente aprimorar minhas habilidades e aplicar meus conhecimentos na criação de soluções eficientes e escaláveis em grandes projetos.</p>
 
 ---
 
