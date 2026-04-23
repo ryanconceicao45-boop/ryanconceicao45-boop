@@ -1,71 +1,42 @@
 <p align="center">
-  <img width="1000" height="300" src="https://i.pinimg.com/736x/94/34/a4/9434a4ffd1b3649c0cf31c6ea6fe6116.jpg" />
+  <img width="1100" height="300" src="/bg.png" />
 </p>
 
-<h1 align="center">Olá, eu sou o Ryan!</h1>
-
-<p align="center" >
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-</p>
-
-<h2 align="center">Desenvolvedor Full Stack em formação</h2>
-<br>
-<p align="center"> Sou um desenvolvedor em constante evolução, apaixonado por tecnologia desde a infância. Meu primeiro contato com computadores despertou uma curiosidade natural: eu costumava montar e desmontar máquinas para entender como tudo funcionava na prática. Com o tempo, essa curiosidade evoluiu para o desenvolvimento de software. Iniciei minha jornada com a linguagem Lua, utilizada na criação de scripts para jogos, o que me proporcionou uma base sólida de lógica de programação. A transição para o JavaScript foi natural, devido às semelhanças entre as linguagens. Atualmente, estou focado em me tornar um desenvolvedor Full Stack Sênior, buscando constantemente aprimorar minhas habilidades e aplicar meus conhecimentos na criação de soluções eficientes e escaláveis em grandes projetos.</p>
+<p align="left"><b>Desenvolvedor Full Stack em formação</b></p>
+<p align="left"> Sou um desenvolvedor em constante evolução, apaixonado por tecnologia desde a infância. Meu primeiro contato com computadores despertou uma curiosidade natural: eu costumava montar e desmontar máquinas para entender como tudo funcionava na prática. Com o tempo, essa curiosidade evoluiu para o desenvolvimento de software. Iniciei minha jornada com a linguagem Lua, utilizada na criação de scripts para jogos, o que me proporcionou uma base sólida de lógica de programação. A transição para o JavaScript foi natural, devido às semelhanças entre as linguagens. Atualmente, estou focado em me tornar um desenvolvedor Full Stack Sênior, buscando constantemente aprimorar minhas habilidades e aplicar meus conhecimentos na criação de soluções eficientes e escaláveis em grandes projetos.</p>
 
 ---
-<table align="center" >
+<table align="center" border="0">
   <tr>
-    <td align="left" width="23%">
+    <td align="left" width="50%">
 
-### 🎯 Objetivos
+### Stall
 * Evoluir como desenvolvedor Full Stack  
 * Criar projetos mais complexos  
 * Aprender boas práticas e performance  
 * Trabalhar na área de tecnologia  
 
     </td>
-    <td align="left" width="23%">
+    <td align="left" width="50%">
 
-### 🚀 Objetivos
+### Skill
 * Evoluir como desenvolvedor Full Stack  
 * Criar projetos mais complexos  
 * Aprender boas práticas e performance  
-* Trabalhar na área de tecnologia  
-
-    </td>
-    <td align="left" width="23%">
-
-### 🚀 Objetivos
-* Evoluir como desenvolvedor Full Stack  
-* Criar projetos mais complexos  
-* Aprender boas práticas e performance  
-* Trabalhar na área de tecnologia  
+* Trabalhar na área de tecnologia
 
     </td>
   </tr>
 </table>
 
+---
+<p align="center"> Tecnologias que estou utilizando </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
-<br>
 
 <p align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-
+  <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
 </p>
 
 
