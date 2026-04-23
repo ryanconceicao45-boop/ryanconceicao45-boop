@@ -1,44 +1,20 @@
-👋 Olá, eu sou o Ryan!
+## Olá, eu sou o Ryan!
 
-💻 Desenvolvedor em constante evolução
-🚀 Apaixonado por tecnologia, programação e criação de projetos práticos
+* Desenvolvedor focado em evolução contínua
+* Entusiasta de tecnologia, programação e criação de soluções eficientes
 
-🚀 Sobre mim
+---
+### Sobre mim
 
-Desde cedo sempre tive curiosidade por tecnologia, principalmente depois do meu primeiro computador. Foi ali que comecei a explorar, desmontar, aprender e entender como tudo funcionava.
+> Desde cedo sempre tive curiosidade por tecnologia, principalmente depois do meu primeiro computador. Foi ali que comecei a explorar, desmontar, aprender e entender como tudo funcionava.
 
-Hoje sigo focado em evoluir como desenvolvedor, buscando melhorar minha lógica, escrever códigos mais eficientes e desenvolver aplicações cada vez mais completas.
+> Hoje sigo focado em evoluir como desenvolvedor, buscando melhorar minha lógica, escrever códigos mais eficientes e desenvolver aplicações cada vez mais completas.
 
-🧠 Tecnologias
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
-📊 Estatísticas do GitHub
-
-📌 Projeto em Destaque
-🧮 Conversor Universal de Moedas
-
-Aplicação web que permite converter moedas em tempo real utilizando API externa.
-
-🔧 Tecnologias usadas:
-
-JavaScript
-Consumo de API
-Eventos (click)
-JSON
-🎯 Objetivos
-Evoluir como desenvolvedor Full Stack
-Criar projetos mais complexos
-Aprender boas práticas e performance
-Trabalhar na área de tecnologia
-💡 Filosofia
-
-"A consistência vence o talento quando o talento não se esforça."
-
-📫 Contato
-GitHub: https://github.com/SEU-USUARIO
-LinkedIn: (coloca aqui se tiver)
-⚡ Observação
-
-⚠️ Troque SEU-USUARIO pelo seu usuário do GitHub para funcionar corretamente.
+![.Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
